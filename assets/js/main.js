@@ -1,22 +1,22 @@
-const user = {
-    firstname: 'Salam',
-    lastname: 'Qədirzadə',
-    age: 55,
-    address: {
-        city: {
-            name: 'Baku',
-            lang: '41',
-            long: '40'
-        },
-        street: 'M. Hadi 9, mənzil 77, sol qapı',
-        postalCode: 'AZ1000',
-        district: 'Khatai district'
-    },
-    getFullName: function () {
-        // return this.firstname + " " + this.lastname;
-        return `${this.firstname} ${this.lastname}`;
-    }
-}
+// const user = {
+//     firstname: 'Salam',
+//     lastname: 'Qədirzadə',
+//     age: 55,
+//     address: {
+//         city: {
+//             name: 'Baku',
+//             lang: '41',
+//             long: '40'
+//         },
+//         street: 'M. Hadi 9, mənzil 77, sol qapı',
+//         postalCode: 'AZ1000',
+//         district: 'Khatai district'
+//     },
+//     getFullName: function () {
+//         // return this.firstname + " " + this.lastname;
+//         return `${this.firstname} ${this.lastname}`;
+//     }
+// }
 
 // const randomName = 'address';
 
